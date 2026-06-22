@@ -1,0 +1,12 @@
+{
+    "json.schemas": [
+
+        {
+            "fileMatch": [
+                "/data/exercises.json"
+            ],
+            "url": "./schemas/exercises.json"
+        },
+    ],
+    "json.schemaDownload.enable": true
+}

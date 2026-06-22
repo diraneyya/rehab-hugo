@@ -1,0 +1,749 @@
+[
+  {
+    "title": "Drop Jump",
+    "category": "Functional Diagnostics",
+    "focus": "Functional diagnostics",
+    "equipment": "Plyo box / bench",
+    "photo": "ex_08.png",
+    "goal": [
+      "Assess functional leg and trunk stability"
+    ],
+    "execution": [
+      "Stand on both legs on a box or bench about 30 cm high",
+      "Hands on hips",
+      "Push off on one leg",
+      "Land on one leg"
+    ],
+    "blocks": [
+      {
+        "label": "Assessment",
+        "items": [
+          "Controlled landing on the whole sole of the foot, avoiding the leg axis caving inward (medial) and the pelvis tilting",
+          "Perform with each leg separately to detect a side-to-side difference"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Single-leg Hop for Distance",
+    "category": "Functional Diagnostics",
+    "focus": "Functional diagnostics",
+    "equipment": "Measuring mat / tape measure",
+    "photo": "ex_09.png",
+    "goal": [
+      "Assess functional leg and trunk stability",
+      "Assess jump power"
+    ],
+    "execution": [
+      "Stand on one leg",
+      "Hands on hips",
+      "One-legged push-off for maximum distance",
+      "One-legged landing",
+      "Measure the jump distance from the take-off mark to the heel"
+    ],
+    "blocks": [
+      {
+        "label": "Assessment",
+        "items": [
+          "Controlled, stable landing without a recovery step or windmilling the arms",
+          "Perform with each leg separately to detect a side-to-side difference"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Side Hop Test",
+    "category": "Functional Diagnostics",
+    "focus": "Functional diagnostics",
+    "equipment": "Measuring mat or markers",
+    "photo": "ex_10.png",
+    "goal": [
+      "Assess functional leg and trunk stability",
+      "Assess jump power / agility / endurance"
+    ],
+    "execution": [
+      "Stand on one leg",
+      "Hands on hips",
+      "10 valid one-legged side hops over the markers, or one-legged side hops for a total of 30 seconds",
+      "Count the valid hops"
+    ],
+    "blocks": [
+      {
+        "label": "Assessment",
+        "items": [
+          "Markers 30 or 40 cm apart",
+          "Controlled execution without putting the other leg down",
+          "Perform with both legs to detect a side-to-side difference"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Y-Balance",
+    "category": "Functional Diagnostics",
+    "focus": "Functional diagnostics",
+    "equipment": "Measuring mat or Y-Balance test kit",
+    "photo": "ex_11.png",
+    "goal": [
+      "Assess functional leg and trunk stability",
+      "Assess coordination / balance"
+    ],
+    "execution": [
+      "Stand on one leg",
+      "Hands on hips",
+      "With the free leg, push the movable boards/blocks as far as possible in the test direction",
+      "Measure the maximum distance pushed"
+    ],
+    "blocks": [
+      {
+        "label": "Assessment",
+        "items": [
+          "Controlled execution without a recovery step or windmilling the arms",
+          "Perform with each leg separately to detect a side-to-side difference"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Knee-lift Run",
+    "category": "Mobilization & Activation",
+    "focus": "Mobilization & activation",
+    "equipment": "None",
+    "photo": "ex_13.png",
+    "goal": [
+      "Mobilization & activation"
+    ],
+    "execution": [
+      "Straight run over a distance of about 30 m",
+      "Lift the free leg to 90° flexion with maximum explosive power"
+    ],
+    "blocks": [
+      {
+        "label": "Variant",
+        "items": [
+          "Alternate lifting the legs every 3 steps"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lunge",
+    "category": "Mobilization & Activation",
+    "focus": "Mobilization & activation",
+    "equipment": "None",
+    "photo": "ex_14.png",
+    "goal": [
+      "Muscle strengthening (quadriceps & gluteus) + movement control"
+    ],
+    "execution": [
+      "Stand on both legs",
+      "Hands on hips",
+      "Controlled lunge until the front leg reaches 90° knee flexion",
+      "Hold the position for 10 seconds",
+      "10 repetitions per side"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Keep the upper body upright",
+          "Do not twist the upper body",
+          "Perform with both legs"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lunge with Rotation",
+    "category": "Mobilization & Activation",
+    "focus": "Mobilization & activation",
+    "equipment": "Ball",
+    "photo": "ex_15.png",
+    "goal": [
+      "Muscle strengthening (quadriceps & gluteus) + trunk control"
+    ],
+    "execution": [
+      "Stand on both legs",
+      "Controlled lunge to 90° knee flexion",
+      "From close to the body, move the ball calmly and under control forward to maximum arm's length",
+      "Alternately rotate the upper body with the ball 90° to the left and right",
+      "10 repetitions per side"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Keep the upper body vertical and the pelvis level",
+          "The weight of the ball can be varied"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "ShinBox with Hip Extension",
+    "category": "Mobilization & Activation",
+    "focus": "Mobilization & activation",
+    "equipment": "Exercise mat",
+    "photo": "ex_16.png",
+    "goal": [
+      "Mobility and strengthening of the trunk muscles"
+    ],
+    "execution": [
+      "Start seated with the knees bent at 90°",
+      "Feet hip-width apart",
+      "Upright trunk posture",
+      "Let both knees tip in a controlled, parallel way to one side while the heels stay firmly on the floor",
+      "Tip the legs under control to the other side",
+      "Caution: heels stay on the floor throughout, upper body stays upright",
+      "3–4 × 15 repetitions"
+    ],
+    "blocks": [
+      {
+        "label": "Variant",
+        "items": [
+          "At each end position, rise up into a tall-kneeling position"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hamstring Stretch Flow",
+    "category": "Mobilization & Activation",
+    "focus": "Mobilization & activation",
+    "equipment": "None",
+    "photo": "ex_17.png",
+    "goal": [
+      "Functional strengthening and motor control of the hip, glute and hamstring muscles"
+    ],
+    "execution": [
+      "Start from a hip-width stance",
+      "Squat down so the hands touch the feet",
+      "Straighten the legs",
+      "Stand up and cross the arms in front of the chest",
+      "Bend one leg into 90° hip and knee flexion",
+      "Transition into a single-leg standing-scale balance (free leg straight behind)",
+      "Slowly stand back up and change sides",
+      "Load: 3–4 × per side"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Upper body and free leg form a straight line",
+          "Keep the standing leg as straight as possible"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Monster Walk",
+    "category": "Mobilization & Activation",
+    "focus": "Mobilization & activation",
+    "equipment": "Elastic resistance band",
+    "photo": "ex_18.png",
+    "goal": [
+      "Functional strengthening of the hip and glute muscles"
+    ],
+    "execution": [
+      "Place the band around the thighs",
+      "Very wide stance with the pelvis tucked and a straight upper body",
+      "Take slow, diagonal steps forward and backward",
+      "Load: 3–4 × 10–20 m"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Band at the thighs = easy",
+          "Band at the lower legs = medium",
+          "Band at the feet = hard"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hip Abduction with Power Band",
+    "category": "Mobilization & Activation",
+    "focus": "Strength",
+    "equipment": "Elastic resistance band",
+    "photo": "ex_19.png",
+    "goal": [
+      "Functional strengthening of the hip and glute muscles"
+    ],
+    "execution": [
+      "Place the band around the thighs just above the knee",
+      "Lie on your side",
+      "Hand on the hip for support",
+      "Abduct (spread) the leg at the hip joint",
+      "Load: 4 × 10 steps on each side"
+    ],
+    "blocks": [
+      {
+        "label": "Variant",
+        "items": [
+          "Lateral abduction in a side-plank"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Catch & Reach",
+    "category": "Neuromuscular Training",
+    "focus": "Neuromuscular training",
+    "equipment": "2 cones, 1 ball, training partner",
+    "photo": "ex_20.png",
+    "goal": [
+      "Improve balance & coordination"
+    ],
+    "execution": [
+      "Hip-width stance, then transition into a single-leg stance",
+      "Touch the cone with the opposite (contralateral) hand while standing on one leg",
+      "Catch and throw a ball back while standing on one leg",
+      "Load: 10–15 repetitions per side"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Partner exercise",
+          "The weight of the ball can be varied"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bosu Ball Kicks",
+    "category": "Neuromuscular Training",
+    "focus": "Neuromuscular training",
+    "equipment": "Bosu ball or similar, ball, training partner",
+    "photo": "ex_21.png",
+    "goal": [
+      "Improve balance & coordination"
+    ],
+    "execution": [
+      "Hip-width stance on a Bosu ball, arms held forward or crossed in front of the chest",
+      "A football is thrown to you at leg height",
+      "Play the ball back under control with the inside of the foot",
+      "Load: 12–15 repetitions per side"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Partner exercise"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rotation with Throw",
+    "category": "Neuromuscular Training",
+    "focus": "Neuromuscular training",
+    "equipment": "Ball, training partner",
+    "photo": "ex_22.png",
+    "goal": [
+      "Coordination + explosive power"
+    ],
+    "execution": [
+      "Controlled lunge to 90° knee flexion",
+      "The ball is thrown to you from the side",
+      "Catch the ball with arms outstretched and rotate the upper body 90° in the direction of the throw",
+      "Dynamically rotate the upper body back while throwing the ball back",
+      "10 repetitions per side"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Keep the upper body vertical and the pelvis level",
+          "The weight of the ball can be varied"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lunge with Lateral Pull",
+    "category": "Neuromuscular Training",
+    "focus": "Neuromuscular training",
+    "equipment": "Exercise band, training partner",
+    "photo": "ex_23.png",
+    "goal": [
+      "Functional trunk and leg-axis stability"
+    ],
+    "execution": [
+      "Controlled lunge to 90° knee flexion",
+      "Hold the band under light tension with the arms stretched straight up",
+      "As you move down into the lunge, the partner increases the band tension"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Keep the upper body vertical and the pelvis level"
+        ]
+      },
+      {
+        "label": "Variant",
+        "items": [
+          "Band around the thigh"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "1-Arm Row",
+    "category": "Neuromuscular Training",
+    "focus": "Neuromuscular training",
+    "equipment": "Resistance band / cable, fixed point or partner",
+    "photo": "ex_24.png",
+    "goal": [
+      "Complex stabilization of the single-leg stance; transfer exercise for running and jumping"
+    ],
+    "execution": [
+      "Deep lunge position forward (ankle, knee and hip bent to 90°)",
+      "Elastic band or cable fixed in front of the body",
+      "Band/cable always on the side opposite the front leg",
+      "Simultaneous movement: stand up into the single-leg stance while pulling against the band/cable",
+      "Load: 3–4 × 12–15 repetitions per side"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Stand up and pull at the same time, under control",
+          "Do not let the standing leg rotate inward",
+          "Position the upper body over the standing leg"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "1-Arm Press with Mini-Band",
+    "category": "Neuromuscular Training",
+    "focus": "Neuromuscular training",
+    "equipment": "Resistance band / cable, fixed point or partner",
+    "photo": "ex_25.png",
+    "goal": [
+      "Complex stabilization of the single-leg stance; transfer exercise for running and jumping"
+    ],
+    "execution": [
+      "Deep lunge position forward (ankle, knee and hip bent to 90°)",
+      "Elastic band or cable fixed behind the body",
+      "Simultaneous movement: stand up into the single-leg stance while pressing against the band/cable",
+      "Load: 4 × 12 repetitions per side"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Stand up and press at the same time, under control",
+          "Do not let the standing leg rotate inward",
+          "Position the upper body over the standing leg"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Triple Extension",
+    "category": "Neuromuscular Training",
+    "focus": "Mobility",
+    "equipment": "None",
+    "photo": "ex_26.png",
+    "goal": [
+      "Extension at the hip, knee and ankle",
+      "Trunk stability",
+      "Preparation for the running movement"
+    ],
+    "execution": [
+      "Parallel stance, one arm's length from a stable wall",
+      "Standing leg: extend at hip, knee and ankle (rise onto the toes)",
+      "Bend and extend the swing leg maximally at hip, knee and ankle",
+      "Load: 2–3 minutes per side"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Increase the range of motion slowly with each repetition",
+          "Train the end points of the movement with extra emphasis"
+        ]
+      },
+      {
+        "label": "Variant",
+        "items": [
+          "Perform on the toes (heels raised)"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Deadlift",
+    "category": "Neuromuscular Training",
+    "focus": "Neuromuscular training",
+    "equipment": "Exercise band, barbell, optionally a 1.5 m bar",
+    "photo": "ex_27.png",
+    "goal": [
+      "Strength training for the legs"
+    ],
+    "execution": [
+      "Hip-width stance on a band",
+      "Band held taut in both hands or fixed to a bar",
+      "Back straight",
+      "Controlled extension of the legs and straightening of the upper body against the resistance",
+      "Load: 4 × 12 repetitions per side"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Always keep the elastic resistance band under tension"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Squat on Wobble Board",
+    "category": "Neuromuscular Training",
+    "focus": "Neuromuscular training",
+    "equipment": "Wobble board or exercise ball",
+    "photo": "ex_28.png",
+    "goal": [
+      "Improve strength and balance"
+    ],
+    "execution": [
+      "Hip-width stance on a wobble board",
+      "Hands crossed in front of the chest",
+      "Bend at the ankle, knee and hip",
+      "Keep the leg axis straight (no knock-knee)",
+      "Controlled transition from squat to standing",
+      "Load: 4 × 12 repetitions"
+    ],
+    "blocks": [
+      {
+        "label": "Variant",
+        "items": [
+          "Advanced late phase: perform the exercise on an exercise ball"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nordic Hamstrings",
+    "category": "Neuromuscular Training",
+    "focus": "Neuromuscular training",
+    "equipment": "Exercise mat",
+    "photo": "ex_29.png",
+    "goal": [
+      "Strengthen the hamstring muscles"
+    ],
+    "execution": [
+      "Hip-width tall-kneel, arms crossed in front of the chest",
+      "A partner holds the ankles firmly",
+      "Version 1: lean forward and back up under control",
+      "Version 2: lean forward slowly and catch yourself with the hands",
+      "Load: 4 × 12 repetitions"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Partner exercise"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Jump Linear / Lateral",
+    "category": "Jump Power",
+    "focus": "Jump power",
+    "equipment": "Small hurdles",
+    "photo": "ex_30.png",
+    "goal": [
+      "Control the impact (compression) forces",
+      "Control the upper-body position",
+      "Prepare for single-leg jumps forward and to the side"
+    ],
+    "execution": [
+      "Land and take off at the same time",
+      "Land on the whole sole of the foot",
+      "Jump forward or to the side",
+      "Optimal flexion at the knee and hip joints"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Safe, non-slip surface"
+        ]
+      },
+      {
+        "label": "Variant",
+        "items": [
+          "Elastic resistance band above the knees"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hop on / off Box",
+    "category": "Jump Power",
+    "focus": "Jump power",
+    "equipment": "Plyo box",
+    "photo": "ex_31.png",
+    "goal": [
+      "Control the impact forces with reduced/increased joint load",
+      "Control the upper-body position",
+      "Prepare for repetitive load changes (running)"
+    ],
+    "execution": [
+      "Take off and land on both legs",
+      "Land on the whole sole of the foot",
+      "Optimal flexion at the knee and hip joints"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Safe, non-slip surface"
+        ]
+      },
+      {
+        "label": "Variant",
+        "items": [
+          "Single-leg jumps"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Side Hop",
+    "category": "Jump Power",
+    "focus": "Transfer, jump power",
+    "equipment": "Small hurdles",
+    "photo": "ex_32.png",
+    "goal": [
+      "Control the upper-body position",
+      "Control the impact forces with high joint load",
+      "Tolerance of shear forces"
+    ],
+    "execution": [
+      "Take off and land on the same leg",
+      "Gradually increase the number of consecutive contacts"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Safe, non-slip surface"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tuck Jumps",
+    "category": "Jump Power",
+    "focus": "Two-legged jump & reactive power",
+    "equipment": "None",
+    "photo": "ex_33.png",
+    "goal": [
+      "Repeated two-legged jumps with the centre of gravity as high as possible",
+      "Build reactive-strength capacity"
+    ],
+    "execution": [
+      "Take off and land on both feet at the same time",
+      "Flight phase: tuck both legs up",
+      "Landing phase: slight flexion of the knee and hip joints (rebound)",
+      "Keep ground contact as short as possible"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Safe, non-slip surface"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Shuttle Run",
+    "category": "Running Drills",
+    "focus": "Running drills",
+    "equipment": "Markers or mini foam hurdles",
+    "photo": "ex_34.png",
+    "goal": [
+      "Improve agility & explosive speed"
+    ],
+    "execution": [
+      "Set up 3 markers 5 m from the start line, 1 m apart",
+      "Linear sprint between the markers",
+      "Run backward to the start marker",
+      "Sprint to the next, further marker each time",
+      "Load: 5 repetitions"
+    ],
+    "blocks": []
+  },
+  {
+    "title": "Change of Direction",
+    "category": "Running Drills",
+    "focus": "Running drills",
+    "equipment": "Floor markers, mini foam hurdles",
+    "photo": "ex_35.png",
+    "goal": [
+      "Improve agility"
+    ],
+    "execution": [
+      "Stand in the middle between two markers placed 10 metres apart",
+      "Sideways sprint to the outer markers",
+      "Load: 10–15 repetitions to each side"
+    ],
+    "blocks": []
+  },
+  {
+    "title": "T-Run",
+    "category": "Running Drills",
+    "focus": "Running drills",
+    "equipment": "Markers or mini foam hurdles",
+    "photo": "ex_36.png",
+    "goal": [
+      "Improve agility & explosive speed"
+    ],
+    "execution": [
+      "Set up 4 markers 5 m apart in a T shape",
+      "Linear sprint to the middle marker",
+      "Sideways sprint to the outer markers",
+      "Backward sprint to the start marker",
+      "Load: 5 repetitions"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Advanced late phase: number the markers and sprint to the called-out marker on the coach's shout"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cone Drills",
+    "category": "Running Drills",
+    "focus": "Running drills",
+    "equipment": "Cones or mini foam hurdles",
+    "photo": "ex_37.png",
+    "goal": [
+      "Improve agility"
+    ],
+    "execution": [
+      "Diagonal sprint between markers placed 5 metres apart",
+      "Touch the markers with the hand",
+      "Load: 5–10 repetitions"
+    ],
+    "blocks": [
+      {
+        "label": "Notes",
+        "items": [
+          "Advanced late phase: number the cones and sprint to the corresponding cone on the coach's shout"
+        ]
+      }
+    ]
+  }
+]

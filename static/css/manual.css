@@ -1,0 +1,73 @@
+:root {
+  --blue:#1b9dd9; --dark:#0c4a6e; --ink:#1f2933; --muted:#6b7280;
+  --goal:#0e7490; --exec:#1f2933; --assess:#b45309; --notes:#475569; --variant:#7c3aed;
+  --bg:#f1f5f9; --card:#ffffff;
+}
+* { box-sizing:border-box; }
+html { -webkit-text-size-adjust:100%; }
+body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       color:var(--ink); background:var(--bg); line-height:1.5; }
+.wrap { max-width:1000px; margin:0 auto; padding:0 16px 60px; }
+
+header.hero { background:linear-gradient(135deg,var(--dark),var(--blue)); color:#fff;
+              padding:44px 20px 36px; text-align:center; }
+header.hero .kicker { letter-spacing:.18em; text-transform:uppercase; font-size:13px; opacity:.85; }
+header.hero h1 { margin:.25em 0 .15em; font-size:30px; }
+header.hero p { margin:.2em auto; max-width:640px; opacity:.95; font-size:15px; }
+header.hero p.sub { font-size:13px; opacity:.8; }
+
+/* The intro is authored in Markdown (content/_index.md) and rendered here. */
+.intro { background:var(--card); border-radius:14px; padding:8px 24px 18px; margin-top:24px;
+         box-shadow:0 1px 3px rgba(0,0,0,.06); }
+.intro h2 { color:var(--dark); border-bottom:2px solid #e2e8f0; padding-bottom:6px; }
+.intro h3 { color:var(--blue); margin-bottom:.2em; }
+.intro p, .intro li { font-size:14.5px; }
+/* The first Markdown blockquote becomes the orange "read first" safety box. */
+.intro blockquote { background:#fff7ed; border:1px solid #fed7aa; border-left:1px solid #fed7aa;
+         border-radius:12px; padding:14px 18px; margin:18px 0; font-size:14.5px; color:#7c2d12; }
+.intro blockquote p { margin:.4em 0; font-size:14.5px; }
+
+.toc { background:var(--card); border-radius:14px; padding:16px 24px; margin-top:24px;
+       box-shadow:0 1px 3px rgba(0,0,0,.06); }
+.toc h2 { margin-top:.3em; color:var(--dark); font-size:18px; }
+.toc ul { list-style:none; padding:0; margin:0; columns:2; }
+.toc li { margin:6px 0; }
+.toc a { color:var(--blue); text-decoration:none; font-weight:600; }
+.toc span { color:var(--muted); font-size:13px; }
+
+.cat-section { margin-top:40px; }
+.cat-section > h2 { color:#fff; background:var(--dark); display:inline-block;
+     padding:8px 18px; border-radius:10px; font-size:20px; margin-bottom:4px; }
+.cards { display:grid; gap:20px; }
+.card { background:var(--card); border-radius:16px; overflow:hidden; display:grid;
+        grid-template-columns:300px 1fr; box-shadow:0 2px 8px rgba(0,0,0,.07);
+        break-inside:avoid; }
+.card-photo { background:#e5e9ee; }
+.card-photo img { width:100%; height:100%; object-fit:cover; display:block; }
+.card-body { padding:18px 22px 20px; position:relative; }
+.ex-num { position:absolute; top:14px; right:16px; font-size:13px; font-weight:700; color:#cbd5e1; }
+.card-body h3 { margin:0 0 10px; color:var(--dark); font-size:21px; }
+.chips { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:12px; }
+.chip { font-size:12.5px; padding:5px 11px; border-radius:999px; background:#eef2f6; color:#334155; }
+.chip b { color:var(--blue); margin-right:5px; text-transform:uppercase; letter-spacing:.04em; font-size:11px; }
+.chip.equip b { color:#0891b2; }
+.field { margin:10px 0; }
+.field h4 { margin:0 0 3px; font-size:13px; text-transform:uppercase; letter-spacing:.05em; }
+.field.goal h4 { color:var(--goal); }
+.field.exec h4 { color:var(--exec); }
+.field.assessment h4 { color:var(--assess); }
+.field.notes h4 { color:var(--notes); }
+.field.variant h4 { color:var(--variant); }
+.field ul { margin:0; padding-left:20px; }
+.field li { margin:2px 0; font-size:14.5px; }
+
+footer { text-align:center; color:var(--muted); font-size:13px; margin-top:50px;
+         padding-top:20px; border-top:1px solid #e2e8f0; }
+
+@media (max-width:680px) {
+  .card { grid-template-columns:1fr; }
+  .card-photo { max-height:300px; }
+  .card-photo img { height:auto; }
+  .toc ul { columns:1; }
+  header.hero h1 { font-size:24px; }
+}

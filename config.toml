@@ -1,0 +1,13 @@
+baseURL = 'https://diraneyya.github.io/rehab-hugo/'
+languageCode = 'en-us'
+title = 'Knee & Lower-Limb Injury Prevention — STOP-X (English)'
+
+# This site renders straight to HTML (a website), unlike the expenses sheet
+# which rendered to a Markdown artefact. So we keep Hugo's normal HTML output
+# and do NOT define a custom Markdown output format here.
+
+# We don't use tags/categories taxonomies or RSS, so turn them off.
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[params]
+  source = 'STOP-X home-training booklet, German Knee Society (DKG)'

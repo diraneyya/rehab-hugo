@@ -1,0 +1,78 @@
+{{ define "main" }}
+<header class="hero">
+  <div class="kicker">STOP-X &middot; German Knee Society (DKG)</div>
+  <h1>Knee &amp; Lower-Limb Injury Prevention</h1>
+  <p>A neuromuscular training program to strengthen the knee, improve balance and
+     coordination, and protect against (re-)injury — for footballers and other athletes.</p>
+  <p class="sub">English translation of the official German STOP-X home-training booklet.</p>
+</header>
+
+<div class="wrap">
+
+  <div class="intro">
+    {{ .Content }}
+  </div>
+
+  {{/* The five blocks of the program, in order. The template groups the JSON
+       data by these — just like the expenses template groups by what it ranges. */}}
+  {{ $cats := slice "Functional Diagnostics" "Mobilization & Activation" "Neuromuscular Training" "Jump Power" "Running Drills" }}
+
+  <div class="toc">
+    <h2>The exercises</h2>
+    <ul>
+    {{ range $cats }}
+      {{ $c := . }}
+      {{ $items := where $.Site.Data.exercises "category" $c }}
+      <li><a href="#{{ $c | urlize }}">{{ $c }}</a> <span>({{ len $items }})</span></li>
+    {{ end }}
+    </ul>
+  </div>
+
+  {{ $.Scratch.Set "n" 0 }}
+  {{ range $cats }}
+    {{ $c := . }}
+    <section id="{{ $c | urlize }}" class="cat-section">
+      <h2>{{ $c }}</h2>
+      <div class="cards">
+      {{ range where $.Site.Data.exercises "category" $c }}
+        {{ $.Scratch.Add "n" 1 }}
+        <article class="card">
+          <div class="card-photo">
+            <img src="{{ (printf "img/exercises/%s" .photo) | relURL }}" alt="{{ .title }}" loading="lazy">
+          </div>
+          <div class="card-body">
+            <div class="ex-num">{{ $.Scratch.Get "n" }}</div>
+            <h3>{{ .title }}</h3>
+            <div class="chips">
+              <span class="chip focus"><b>Focus</b> {{ .focus }}</span>
+              <span class="chip equip"><b>Equipment</b> {{ .equipment }}</span>
+            </div>
+            <div class="field goal">
+              <h4>Goal</h4>
+              <ul>{{ range .goal }}<li>{{ . }}</li>{{ end }}</ul>
+            </div>
+            <div class="field exec">
+              <h4>Execution</h4>
+              <ul>{{ range .execution }}<li>{{ . }}</li>{{ end }}</ul>
+            </div>
+            {{ with .blocks }}{{ range . }}
+            <div class="field {{ .label | lower }}">
+              <h4>{{ .label }}</h4>
+              <ul>{{ range .items }}<li>{{ . }}</li>{{ end }}</ul>
+            </div>
+            {{ end }}{{ end }}
+          </div>
+        </article>
+      {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  <footer>
+    Translated from the official <b>STOP-X</b> home-training booklet of the German Knee
+    Society (Deutsche Kniegesellschaft, DKG) &middot; <span>deutsche-kniegesellschaft.de</span><br>
+    Original demonstration photos &copy; their respective owners. English translation prepared for personal use.
+  </footer>
+
+</div>
+{{ end }}
