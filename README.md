@@ -1,3 +1,10 @@
+# Knee & Lower-Limb Injury Prevention — STOP-X (English)
+
+**📖 Open the manual here → https://diraneyya.github.io/rehab-hugo/**
+
+Save that link — it opens on any phone, no download: all the exercises, with photos
+and clear English instructions. Everything below is *how* the manual is built.
+
 ## Introduction
 
 This is the **knee & lower-limb injury-prevention manual** (the STOP-X program from
