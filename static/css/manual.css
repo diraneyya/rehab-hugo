@@ -65,9 +65,11 @@ footer { text-align:center; color:var(--muted); font-size:13px; margin-top:50px;
          padding-top:20px; border-top:1px solid #e2e8f0; }
 
 @media (max-width:680px) {
+  /* Single column: photo on top of the text. The photo shows at its natural
+     height (no fixed cap that the image could overflow and overlap the text). */
   .card { grid-template-columns:1fr; }
-  .card-photo { max-height:300px; }
-  .card-photo img { height:auto; }
+  .card-photo { max-height:none; }
+  .card-photo img { width:100%; height:auto; object-fit:contain; }
   .toc ul { columns:1; }
   header.hero h1 { font-size:24px; }
 }
